@@ -1,0 +1,9 @@
+{
+  "name": "better-opencode-btw",
+  "version": "1.0.0",
+  "description": "The /btw command opencode deserves — ask side questions with rich context, zero pollution",
+  "license": "MIT",
+  "dependencies": {
+    "@opencode-ai/plugin": "latest"
+  }
+}
