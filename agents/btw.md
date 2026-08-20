@@ -1,7 +1,7 @@
 ---
 description: Quick side-question answerer — read-only, concise
 mode: subagent
-model: openrouter/qwen/qwen3.6-plus
+model: volcengine-plan/deepseek-v4-flash
 hidden: true
 temperature: 0.3
 permission:
